@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e 'c\nc\nc#\njava\njava\nc#\nperl\nphp' | uniq | sort
